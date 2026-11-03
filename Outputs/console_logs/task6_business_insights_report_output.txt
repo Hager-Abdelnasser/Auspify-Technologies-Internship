@@ -1,0 +1,82 @@
+STEP 1 | EXPLORATORY DATA ANALYSIS
+Shape: (8786, 17) | Date range added: 2008-01-01 to 2021-09-25
+
+Numeric summary
+        release_year  duration_value  genre_count
+count        8786.0          8786.0       8786.0
+mean         2014.2            69.9          2.2
+std             8.8            50.8          0.8
+min          1925.0             1.0          1.0
+25%          2013.0             2.0          2.0
+50%          2017.0            88.0          2.0
+75%          2019.0           106.0          3.0
+max          2021.0           312.0          3.0
+
+Unique values
+ show_id          8786
+title            8786
+director         4528
+country            84
+rating             14
+primary_genre      36
+
+Data completeness (share of records with real value)
+country        96.7
+director       70.6
+date_added    100.0
+
+Movie runtime: median 98 min, mean 100 min | under 90 min: 30.0% | over 120 min: 18.6%
+TV seasons: 1 season 67.2% | 3+ seasons 17.0% | max 17 seasons
+
+Top 10 directors
+ d
+Rajiv Chilaka          23
+Jan Suter              21
+Alastair Fothergill    19
+Raúl Campos            19
+Marcus Raboy           16
+Suhas Kadav            16
+Jay Karas              15
+Cathy Garcia-Molina    13
+Jay Chapman            12
+Martin Scorsese        12
+
+STEP 2 | KEY TRENDS AND PATTERNS
+Leading genre tag in each top-5 country
+ country
+United States                     Dramas
+India               International Movies
+United Kingdom          British TV Shows
+Pakistan          International TV Shows
+Canada                          Comedies
+Peak year titles were added: 2019 (2,013) | Peak release year: 2018 (1,144)
+TV Show share of additions by year (%)
+ year_added
+2016    41.1
+2017    29.5
+2018    25.0
+2019    29.4
+2020    31.7
+2021    33.7
+
+STEP 3 | DASHBOARDS
+Saved: dashboard_1_executive_overview.png, dashboard_2_content_deep_dive.png, dashboard_3_interactive.html
+
+STEP 4 | ACTIONABLE BUSINESS INSIGHTS
+- Catalogue mix: Movies are 69.7% of the catalogue. The TV Show share of yearly additions rose from 29.5% in 2017 to 33.7% in 2021 while movie additions fell from 1,422 (2019) to 993 (2021, partial year).
+- Geographic concentration: The United States alone holds 38.1% of titles with a known country and the top 5 countries hold 66.2%. Diversification depends on a small set of markets.
+- Audience targeting: Adult-rated content is 45.6% of the catalogue versus 23.4% for Kids and Older Kids. Family content is the smallest rated segment.
+- Market formats differ: Pakistan is series-led (83% TV Shows) while India is movie-led (8% TV Shows), so the two largest South Asian markets need different content plans.
+- Content format: Median movie runtime is 98 minutes and 67% of TV Shows have a single season, so most series are short runs or limited series.
+- Freshness: 55% of titles were added within a year of their release, and 85% of the catalogue was released after 2009 (release-year peak: 2018, 1,144 titles).
+- Data quality: 29% of titles have no director and 3% have no country, which limits creator-level and market-level analysis.
+
+Recommendations
+- Evaluate expanding family and kids programming, the smallest rated audience segment in the catalogue.
+- Replicate the series-led approach seen in Pakistan, South Korea and Japan in other emerging markets.
+- Reduce dependence on the US and India by growing mid-size markets such as Spain, Mexico, Egypt and Nigeria.
+- Track TV Show seasons per title to measure retention and plan renewals for single-season series.
+- Make country and director fields mandatory at ingestion to improve downstream analytics.
+
+STEP 5 | FINAL ANALYTICAL REPORT
+Report saved: outputs/task6/Netflix_Business_Insights_Report.html

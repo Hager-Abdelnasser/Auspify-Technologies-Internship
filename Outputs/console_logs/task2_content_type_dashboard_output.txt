@@ -1,0 +1,47 @@
+CONTENT TYPE SUMMARY
+          titles  share_pct
+type                      
+Movie      6123       69.7
+TV Show    2663       30.3 
+
+Total titles: 8,786
+Movie to TV Show ratio: 2.30 : 1
+
+Titles added per year (2015+)
+ type        Movie  TV Show  tv_share_pct
+year_added                              
+2015           56       26          31.7
+2016          251      175          41.1
+2017          836      349          29.5
+2018         1236      411          25.0
+2019         1422      591          29.4
+2020         1284      595          31.7
+2021          993      505          33.7
+
+Type mix inside each audience group (%)
+ type          Movie  TV Show
+rating_group                
+Adults         71.4     28.6
+Kids           52.6     47.4
+Older Kids     65.3     34.7
+Teens          72.4     27.6
+Unrated        95.1      4.9
+
+Type mix by release decade (%)
+ type          Movie  TV Show
+release_year                
+1970           92.6      7.4
+1980           94.6      5.4
+1990           88.0     12.0
+2000           83.9     16.1
+2010           70.7     29.3
+2020           51.4     48.6
+
+KEY FINDINGS
+- Movies make up 69.7% of the catalogue (6,123 titles) versus 30.3% TV Shows (2,663).
+- There are about 2.3 movies for every TV show.
+- Peak addition year is 2019 with 2,013 new titles.
+- TV Show share of yearly additions moved from 31.7% in 2015 to 33.7% in 2021.
+- Kids content has the highest TV Show share (47.4%), while Teens content is the most movie-heavy (72.4%).
+
+Saved to outputs/task2

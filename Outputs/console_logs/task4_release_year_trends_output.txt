@@ -1,1 +1,67 @@
+Release years span 1925 to 2021 | Latest date_added: 2021-09-25
 
+TITLES BY RELEASE YEAR (2000 onward)
+               titles  Movie  TV Show  yoy_pct
+release_year                                 
+2000              37     33        4     -5.1
+2001              45     40        5     21.6
+2002              51     44        7     13.3
+2003              59     51        8     15.7
+2004              64     55        9      8.5
+2005              80     67       13     25.0
+2006              96     82       14     20.0
+2007              88     74       14     -8.3
+2008             135    113       22     53.4
+2009             152    118       34     12.6
+2010             192    153       39     26.3
+2011             185    145       40     -3.6
+2012             236    173       63     27.6
+2013             286    225       61     21.2
+2014             351    263       88     22.7
+2015             555    396      159     58.1
+2016             901    658      243     62.3
+2017            1030    765      265     14.3
+2018            1144    766      378     11.1
+2019            1029    632      397    -10.1
+2020             953    517      436     -7.4
+2021             592    277      315    -37.9
+
+TITLES BY DECADE OF RELEASE
+               titles  Movie  TV Show  share_pct
+release_year                                   
+1920               1      0        1        0.0
+1930               0      0        0        0.0
+1940              15     13        2        0.2
+1950              11     11        0        0.1
+1960              25     23        2        0.3
+1970              70     66        4        0.8
+1980             129    122        7        1.5
+1990             274    241       33        3.1
+2000             807    677      130        9.2
+2010            5909   4176     1733       67.3
+2020            1545    794      751       17.6
+
+TITLES ADDED TO NETFLIX BY YEAR
+             titles_added  yoy_pct
+year_added                       
+2015                  82    241.7
+2016                 426    419.5
+2017                1185    178.2
+2018                1647     39.0
+2019                2013     22.2
+2020                1879     -6.7
+2021                1498    -20.3
+
+Median gap between release and Netflix addition: 1 year(s) | Added within 1 year of release: 55.0%
+
+BUSINESS PATTERNS
+- Release volume grew from 135 titles in 2008 to a peak of 1,144 in 2018, a compound growth of 23.8% per year.
+- The sharpest jump was in 2016 (+62% vs the previous year).
+- After the 2018 peak, releases fell in 3 of the 3 following years; 2021 stands at 592 titles (-37.9% YoY).
+- The 2010s hold 67.3% of the whole catalogue, confirming a catalogue weighted toward recent content.
+- TV Shows grew faster than Movies between 2010 and 2018: 9.7x versus 5.0x.
+- The median gap between release and Netflix addition is 1 year, and 55% of titles were added within a year of release.
+- December is the most common month for additions before 2021.
+- The data ends in September 2021, so 2021 is a partial year and its drop should not be read as a real decline.
+
+Saved to outputs/task4

@@ -1,0 +1,90 @@
+STEP 1 | RATING CATEGORIES
+           titles  share_pct
+rating                     
+TV-Y         306        3.5
+TV-G         220        2.5
+G             41        0.5
+TV-Y7        333        3.8
+TV-Y7-FV       6        0.1
+TV-PG        861        9.8
+PG           287        3.3
+TV-14       2155       24.5
+PG-13        490        5.6
+TV-MA       3204       36.5
+R            798        9.1
+NC-17          3        0.0
+NR            79        0.9
+UR             3        0.0
+
+Audience groups
+ rating_group
+Kids           6.5
+Older Kids    16.9
+Teens         30.1
+Adults        45.6
+Unrated        0.9
+
+STEP 2 | MOST COMMON GENRES (of 42 distinct)
+ genre
+International Movies        2751
+Dramas                      2423
+Comedies                    1673
+International TV Shows      1348
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    761
+Independent Movies           755
+Children & Family Movies     641
+Romantic Movies              616
+Thrillers                    575
+TV Comedies                  573
+Crime TV Shows               469
+Kids' TV                     448
+Docuseries                   394
+
+STEP 3 | RATING SHARE WITHIN EACH TYPE (%)
+ type      Movie  TV Show
+rating                  
+TV-Y        2.1      6.6
+TV-G        2.1      3.5
+G           0.7      0.0
+TV-Y7       2.3      7.3
+TV-Y7-FV    0.1      0.0
+TV-PG       8.8     12.1
+PG          4.7      0.0
+TV-14      23.3     27.4
+PG-13       8.0      0.0
+TV-MA      33.7     42.9
+R          13.0      0.1
+NC-17       0.0      0.0
+NR          1.2      0.2
+UR          0.0      0.0
+
+Audience mix of top genres (%)
+ rating_group              Kids  Older Kids  Teens  Adults
+genre                                                    
+International Movies       2.1        11.3   41.2    45.4
+Dramas                     1.5        11.3   36.9    50.3
+Comedies                   3.7        21.2   38.1    37.0
+International TV Shows     1.8        10.2   34.9    53.1
+Action & Adventure         0.1         7.8   42.5    49.6
+Documentaries              6.1        22.1   30.7    41.1
+TV Dramas                  1.2         6.4   35.3    57.1
+Independent Movies         0.4         5.8   20.7    73.0
+Children & Family Movies  30.7        64.6    4.5     0.2
+Romantic Movies            2.8        15.5   48.2    33.5
+TV Comedies                9.8        19.5   24.1    46.6
+Thrillers                  0.0         1.2   30.3    68.5
+
+STEP 4 | INTERACTIVE VISUALIZATIONS
+Saved 5 interactive HTML charts
+
+STEP 5 | AUDIENCE INSIGHTS
+- TV-MA is the most common rating (36.5% of titles); mature-oriented content (Adults group) is 45.6% of the catalogue.
+- Family-oriented content (Kids and Older Kids) is 23.4% of the catalogue, so Netflix leans toward teen and adult audiences.
+- TV-MA covers 42.9% of TV Shows versus 33.7% of Movies, showing that series are targeted more at mature viewers.
+- International Movies (2,751) and Dramas (2,423) are the two largest genre tags; international tags together reach 4,099 listings.
+- Independent Movies is the most adult-skewed top genre (73% Adults), while Children & Family Movies is the most family-oriented.
+- 77% of titles carry more than one genre tag, which supports cross-genre recommendation and bundling.
+
+Saved to outputs/task5

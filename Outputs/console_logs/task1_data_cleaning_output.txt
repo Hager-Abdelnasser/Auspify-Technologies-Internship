@@ -1,0 +1,83 @@
+============================================================ 
+STEP 1 | Import
+============================================================
+Shape: 8,790 rows x 10 columns
+show_id           str
+type              str
+title             str
+director          str
+country           str
+date_added        str
+release_year    int64
+rating            str
+duration          str
+listed_in         str
+
+============================================================ 
+STEP 2 | Missing values
+============================================================
+Null values per column:
+ show_id         0
+type            0
+title           0
+director        0
+country         0
+date_added      0
+release_year    0
+rating          0
+duration        0
+listed_in       0
+
+'Not Given' placeholders per column:
+ director    2588
+country      287
+
+Placeholders converted to 'Unknown' in director and country
+
+============================================================ 
+STEP 3 | Duplicates and formatting
+============================================================
+Exact duplicates: 0 | Duplicates by title/type/year/duration removed: 4
+date_added parsed: 8,786 valid dates
+
+============================================================ 
+STEP 4 | Standardize Country, Rating, Type
+============================================================
+Type:
+ type
+Movie      6123
+TV Show    2663
+
+Rating group:
+ rating_group
+Adults        4005
+Teens         2645
+Older Kids    1487
+Kids           567
+Unrated         82
+
+Unique countries: 84
+
+============================================================ 
+STEP 5 | Export
+============================================================
+Rows: 8,790 -> 8,786 | Saved to: data/netflix_cleaned.csv
+
+Final quality check:
+show_id           0
+type              0
+title             0
+director          0
+country           0
+date_added        0
+release_year      0
+rating            0
+duration          0
+listed_in         0
+year_added        0
+month_added       0
+duration_value    0
+duration_unit     0
+rating_group      0
+primary_genre     0
+genre_count       0
