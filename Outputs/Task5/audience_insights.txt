@@ -1,1 +1,6 @@
-
+- TV-MA is the most common rating (36.5% of titles); mature-oriented content (Adults group) is 45.6% of the catalogue.
+- Family-oriented content (Kids and Older Kids) is 23.4% of the catalogue, so Netflix leans toward teen and adult audiences.
+- TV-MA covers 42.9% of TV Shows versus 33.7% of Movies, showing that series are targeted more at mature viewers.
+- International Movies (2,751) and Dramas (2,423) are the two largest genre tags; international tags together reach 4,099 listings.
+- Independent Movies is the most adult-skewed top genre (73% Adults), while Children & Family Movies is the most family-oriented.
+- 77% of titles carry more than one genre tag, which supports cross-genre recommendation and bundling.
