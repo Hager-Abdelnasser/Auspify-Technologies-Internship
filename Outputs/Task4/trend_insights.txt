@@ -1,1 +1,8 @@
-
+- Release volume grew from 135 titles in 2008 to a peak of 1,144 in 2018, a compound growth of 23.8% per year.
+- The sharpest jump was in 2016 (+62% vs the previous year).
+- After the 2018 peak, releases fell in 3 of the 3 following years; 2021 stands at 592 titles (-37.9% YoY).
+- The 2010s hold 67.3% of the whole catalogue, confirming a catalogue weighted toward recent content.
+- TV Shows grew faster than Movies between 2010 and 2018: 9.7x versus 5.0x.
+- The median gap between release and Netflix addition is 1 year, and 55% of titles were added within a year of release.
+- December is the most common month for additions before 2021.
+- The data ends in September 2021, so 2021 is a partial year and its drop should not be read as a real decline.
