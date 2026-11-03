@@ -128,4 +128,4 @@ Python, Pandas, Matplotlib, Seaborn, Plotly
 **Hager Abdelnasser**
 Data Engineering and Data Analytics | Faculty of Computers and Information, Ain Shams University
 
-[GitHub](https://github.com/Hager-Abdelnasser) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/Hager-Abdelnasser) | [LinkedIn](https://www.linkedin.com/in/hager-abdelnasser9/)
