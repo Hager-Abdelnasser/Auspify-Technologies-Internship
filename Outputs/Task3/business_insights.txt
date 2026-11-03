@@ -1,1 +1,6 @@
-
+- United States leads with 3,240 titles (38.12% of titles with a known country), about 3.1x the runner-up, India.
+- The top 5 countries (United States, India, United Kingdom, Pakistan, Canada) account for 66.2% of the catalogue and the top 10 for 78.0%.
+- 16 of 83 countries have only one title, showing a long tail of low-volume markets.
+- Among countries with 100+ titles, Pakistan has the highest TV Show share (83.1%), so its local catalogue is series-led.
+- North America (3,649 titles) is followed by Asia (2,507) and Europe (1,496); the MENA group stands at 214 titles.
+- 287 titles have no country recorded, which is a data-quality gap worth fixing at ingestion.
