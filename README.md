@@ -46,22 +46,22 @@ The data ends in September 2021, so 2021 figures are partial.
 ## Dashboards
 
 ### Executive overview (Task 6)
-![Executive Dashboard](outputs/task6/dashboard_1_executive_overview.png)
+![Executive Dashboard](Outputs/Task6/dashboard_1_executive_overview.png)
 
 ### Content type analysis (Task 2)
-![Content Type](outputs/task2/content_type_dashboard.png)
+![Content Type](Outputs/Task2/content_type_dashboard.png)
 
 ### Country analysis (Task 3)
-![Countries](outputs/task3/top_countries.png)
+![Countries](Outputs/Task3/top_countries.png)
 
 ### Release year trends (Task 4)
-![Trends](outputs/task4/release_year_trends.png)
+![Trends](Outputs/Task4/release_year_trends.png)
 
 ### Ratings and genres (Task 5)
-![Ratings and Genres](outputs/task5/rating_genre_dashboard.png)
+![Ratings and Genres](Outputs/Task5/rating_genre_dashboard.png)
 
 ### Content deep dive (Task 6)
-![Deep Dive](outputs/task6/dashboard_2_content_deep_dive.png)
+![Deep Dive](Outputs/Task6/dashboard_2_content_deep_dive.png)
 
 ### Interactive outputs
 
